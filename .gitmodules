@@ -1,0 +1,3 @@
+[submodule "prim-benchmarks"]
+	path = prim-benchmarks
+	url = https://github.com/SNU-ARC/prim-benchmarks
