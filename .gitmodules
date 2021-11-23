@@ -17,3 +17,7 @@
 	path = WEAVESS
 	url = https://github.com/SNU-ARC/WEAVESS
 	branch = master
+[submodule "song"]
+	path = song
+	url = https://github.com/SNU-ARC/song
+	branch = master
