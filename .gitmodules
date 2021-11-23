@@ -5,3 +5,7 @@
 	path = chipyard
 	url = https://github.com/SNU-ARC/chipyard
 	branch = master
+[submodule "SPTAG"]
+	path = SPTAG
+	url = https://github.com/SNU-ARC/SPTAG
+	branch = master
