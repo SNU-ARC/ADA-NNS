@@ -25,3 +25,7 @@
 	path = efanna_graph
 	url = https://github.com/SNU-ARC/efanna_graph
 	branch = master
+[submodule "nsg"]
+	path = nsg
+	url = https://github.com/SNU-ARC/nsg
+	branch = master
