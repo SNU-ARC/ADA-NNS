@@ -21,3 +21,7 @@
 	path = song
 	url = https://github.com/SNU-ARC/song
 	branch = master
+[submodule "efanna_graph"]
+	path = efanna_graph
+	url = https://github.com/SNU-ARC/efanna_graph
+	branch = master
