@@ -9,3 +9,7 @@
 	path = SPTAG
 	url = https://github.com/SNU-ARC/SPTAG
 	branch = master
+[submodule "DiskANN"]
+	path = DiskANN
+	url = https://github.com/SNU-ARC/DiskANN
+	branch = master
