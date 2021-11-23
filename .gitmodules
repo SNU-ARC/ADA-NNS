@@ -13,3 +13,7 @@
 	path = DiskANN
 	url = https://github.com/SNU-ARC/DiskANN
 	branch = master
+[submodule "WEAVESS"]
+	path = WEAVESS
+	url = https://github.com/SNU-ARC/WEAVESS
+	branch = master
