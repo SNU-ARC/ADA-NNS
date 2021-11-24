@@ -6,7 +6,7 @@
 	url = https://github.com/SNU-ARC/chipyard
 	branch = master
 [submodule "SPTAG"]
-	path = SPTAG
+	path = graphANNS
 	url = https://github.com/SNU-ARC/SPTAG
 	branch = master
 [submodule "DiskANN"]
