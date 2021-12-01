@@ -28,4 +28,4 @@
 [submodule "nsg"]
 	path = nsg
 	url = https://github.com/SNU-ARC/nsg
-	branch = master
+	branch = graphANNS
