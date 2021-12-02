@@ -20,7 +20,7 @@
 [submodule "song"]
 	path = song
 	url = https://github.com/SNU-ARC/song
-	branch = master
+	branch = graphANNS
 [submodule "efanna_graph"]
 	path = efanna_graph
 	url = https://github.com/SNU-ARC/efanna_graph
@@ -28,6 +28,4 @@
 [submodule "nsg"]
 	path = nsg
 	url = https://github.com/SNU-ARC/nsg
-	branch = graphANNS
-[submodule "SPTAG:w"]
 	branch = graphANNS
