@@ -30,3 +30,6 @@
 	path = nsg
 	url = https://github.com/SNU-ARC/nsg
 	branch = graphANNS
+[submodule "SSG"]
+	path = SSG
+	url = https://github.com/SNU-ARC/SSG
