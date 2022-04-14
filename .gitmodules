@@ -13,7 +13,7 @@
 [submodule "DiskANN"]
 	path = DiskANN
 	url = https://github.com/SNU-ARC/DiskANN
-	branch = master
+	branch = graphANNS
 [submodule "WEAVESS"]
 	path = WEAVESS
 	url = https://github.com/SNU-ARC/WEAVESS
@@ -33,3 +33,4 @@
 [submodule "SSG"]
 	path = SSG
 	url = https://github.com/SNU-ARC/SSG
+	branch = graphANNS
