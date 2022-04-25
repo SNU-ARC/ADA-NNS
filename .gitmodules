@@ -34,3 +34,6 @@
 	path = SSG
 	url = https://github.com/SNU-ARC/SSG
 	branch = graphANNS
+[submodule "TOGG"]
+	path = TOGG
+	url = https://github.com/SNU-ARC/TOGG
