@@ -1,39 +1,20 @@
-[submodule "prim-benchmarks"]
-	path = prim-benchmarks
-	url = https://github.com/SNU-ARC/prim-benchmarks
-	branch = graphANNS
-[submodule "chipyard"]
-	path = chipyard
-	url = https://github.com/SNU-ARC/chipyard
-	branch = master
-[submodule "SPTAG"]
-	path = SPTAG
-	url = https://github.com/SNU-ARC/SPTAG
-	branch = graphANNS
 [submodule "DiskANN"]
 	path = DiskANN
 	url = https://github.com/SNU-ARC/DiskANN
-	branch = graphANNS
-[submodule "WEAVESS"]
-	path = WEAVESS
-	url = https://github.com/SNU-ARC/WEAVESS
-	branch = master
-[submodule "song"]
-	path = song
-	url = https://github.com/SNU-ARC/song
-	branch = graphANNS
+	branch = ADA-NNS
 [submodule "efanna_graph"]
 	path = efanna_graph
 	url = https://github.com/SNU-ARC/efanna_graph
-	branch = graphANNS
+	branch = ADA-NNS
 [submodule "nsg"]
 	path = nsg
 	url = https://github.com/SNU-ARC/nsg
-	branch = graphANNS
+	branch = ADA-NNS
 [submodule "SSG"]
 	path = SSG
 	url = https://github.com/SNU-ARC/SSG
-	branch = graphANNS
+	branch = ADA-NNS
 [submodule "TOGG"]
 	path = TOGG
 	url = https://github.com/SNU-ARC/TOGG
+  branch = ADA-NNS
