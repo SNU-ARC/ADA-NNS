@@ -1,6 +1,6 @@
 # ADA-NNS
 
-ADA-NNS is a novel angular distance-gudied search method for graph-based approximate nearest neighbor search (ANNS). It effectively filters neighbors that are less relevantt to the query and computes distances to the query only for the candidate neighbors. It not only achieves the state-of-the art performance for various datasets, but also maintains good compatibility with existing proximity graphs, such as NSG, Vamana, and NSSG.
+ADA-NNS is a novel angular distance-guided search method for graph-based approximate nearest neighbor search (ANNS). It effectively filters neighbors that are less relevant to the query and computes distances to the query only for the candidate neighbors. It not only achieves the state-of-the art performance for various datasets, but also maintains good compatibility with existing proximity graphs, such as NSG, Vamana, and NSSG.
 
 Please refer to the full paper ADA-NNS.
 
