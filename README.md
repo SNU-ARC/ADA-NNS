@@ -24,12 +24,8 @@ Please refer to the full paper ADA-NNS.
 $ ./init.sh
 ```
 
-2. Download datasets to the `ANNS_datasets` directory.
+2. Download datasets and build kNN graphs (NSG and NSSG)
 
-3. [NSG and NSSG] Build kNN graphs
+3. Run examples
 
-NSG and NSSG requires kNN graphs. We provide the script to build kNN graphs in `efanna_graph`. Please refer to `efanna_graph/README.md`.
-
-4. Run examples
-
-Follow readme in NSG, DiskANN, and NSSG.
+* Follow Readme in NSG, DiskANN, and NSSG.
