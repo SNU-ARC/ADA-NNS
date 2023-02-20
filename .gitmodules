@@ -18,3 +18,6 @@
 	path = TOGG
 	url = https://github.com/SNU-ARC/TOGG
   branch = ADA-NNS
+[submodule "song"]
+	path = song
+	url = https://github.com/SNU-ARC/song
