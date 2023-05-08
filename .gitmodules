@@ -21,3 +21,6 @@
 [submodule "song"]
 	path = song
 	url = https://github.com/SNU-ARC/song
+[submodule "ggnn"]
+	path = ggnn
+	url = https://github.com/SNU-ARC/ggnn
