@@ -40,5 +40,5 @@ ln -s ${PWD}/dataset algorithms/ADA-NNS/hnswlib/dataset
 4. Reproduce WWW'2025 results
 
 Follow Readme in each directory
-+ [HNSW (baseline)](algorithms/hnswlib)
-+ [HNSW (ADA-NNS)](algorithms/ADA-NNS/hnswlib)
++ [HNSW (baseline)](https://github.com/K16DIABLO/hnswlib/tree/v0.8.0)
++ [HNSW (ADA-NNS)](https://github.com/K16DIABLO/hnswlib/tree/ADA-NNS)
