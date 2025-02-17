@@ -1,6 +1,8 @@
 [submodule "algorithms/hnswlib"]
 	path = algorithms/hnswlib
 	url = https://github.com/k16diablo/hnswlib
+  branch = v0.8.0
 [submodule "algorithms/ADA-NNS/hnswlib"]
 	path = algorithms/ADA-NNS/hnswlib
 	url = https://github.com/k16diablo/hnswlib
+  branch = ADA-NNS

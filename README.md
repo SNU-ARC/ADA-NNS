@@ -1,7 +1,7 @@
 # ADA-NNS: Angular Distance-Guided Neighbor Selection for Graph-Based Approximate Nearest Neighbor Search
 
 ## Overview
-ADA-NNS is a novel angular distance-guided search that dynamically filters out less relevant neighbors by employing a lightweight proxy based on a angular distance. It not only achieves the state-of-the art performance for various datasets, but also maintains good compatibility with existing indices, such as HNSW, NSG, Vamana, and NSSG.
+ADA-NNS is a novel angular distance-guided search that dynamically filters out less relevant neighbors by employing a lightweight proxy based on a angular distance. It not only achieves the state-of-the art performance for various datasets, but also maintains good compatibility with existing indices, such as HNSW.
 
 <img src="./figures/overview.png"/>
 
