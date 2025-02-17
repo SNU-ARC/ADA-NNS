@@ -5,7 +5,7 @@ ADA-NNS is a novel angular distance-guided search that dynamically filters out l
 
 <img src="./figures/overview.png"/>
 
-Please refer to the full paper ADA-NNS (To appear).
+Please refer to the full paper ADA-NNS (To appear WWW 2025).
 
 ## Datasets
 
