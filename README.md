@@ -32,6 +32,7 @@ git submodule update --init --recursive
 2. Download datasets and store into `dataset` directory  
 Following is the directory structure of `dataset` to reproduce WWW 2025 results:
 ```
+./dataset
 ├── sift1M
 │   ├── sift1M_base.fvecs
 │   ├── sift1M_groundtruth.ivecs
