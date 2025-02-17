@@ -31,7 +31,13 @@ git submodule update --init --recursive
 
 2. Download datasets and store into `dataset` directory 
 
-3. Reproduce WWW'2025 results
+3. Crate a symbolic link to the `dataset` directory in submodules:
+```bash
+ln -s ${PWD}/dataset algorithms/hnswlib/dataset
+ln -s ${PWD}/dataset algorithms/ADA-NNS/hnswlib/dataset
+```
+
+4. Reproduce WWW'2025 results
 
 Follow Readme in each directory
 + [HNSW (baseline)](algorithms/hnswlib)
