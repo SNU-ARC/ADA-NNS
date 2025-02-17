@@ -52,10 +52,11 @@ Following is the directory structure of `dataset` to reproduce WWW 2025 results:
 │   ├── nytimes_base.fvecs
 │   ├── nytimes_groundtruth.ivecs
 │   └── nytimes_query.fvecs
-└── deep100M
-    ├── deep100M_base.fvecs
-    ├── deep100M_groundtruth.ivecs
-    └── deep100M_query.fvecs
+├── deep100M
+│   ├── deep100M_base.fvecs
+│   ├── deep100M_groundtruth.ivecs
+│   └── deep100M_query.fvecs
+└── hnsw_index
 ```
 
 3. Crate a symbolic link to the `dataset` directory in submodules:
