@@ -29,7 +29,7 @@ Please refer to the full paper ADA-NNS (To appear WWW 2025).
 git submodule update --init --recursive
 ```
 
-2. Download datasets and store into `dataset` directory 
+2. Download datasets and store into `dataset` directory  
 Following is the directory structure of `dataset` to reproduce WWW 2025 results:
 ```
 ├── sift1M
