@@ -30,6 +30,33 @@ git submodule update --init --recursive
 ```
 
 2. Download datasets and store into `dataset` directory 
+Following is the directory structure of `dataset` to reproduce WWW 2025 results:
+```
+├── sift1M
+│   ├── sift1M_base.fvecs
+│   ├── sift1M_groundtruth.ivecs
+│   └── sift1M_query.fvecs
+├── gist1M
+│   ├── gist1M_base.fvecs
+│   ├── gist1M_groundtruth.ivecs
+│   └── gist1M_query.fvecs
+├── crawl
+│   ├── crawl_base.fvecs
+│   ├── crawl_groundtruth.ivecs
+│   └── crawl_query.fvecs
+├── glove-100
+│   ├── glove-100_base.fvecs
+│   ├── glove-100_groundtruth.ivecs
+│   └── glove-100_query.fvecs
+├── nytimes
+│   ├── nytimes_base.fvecs
+│   ├── nytimes_groundtruth.ivecs
+│   └── nytimes_query.fvecs
+└── deep100M
+    ├── deep100M_base.fvecs
+    ├── deep100M_groundtruth.ivecs
+    └── deep100M_query.fvecs
+```
 
 3. Crate a symbolic link to the `dataset` directory in submodules:
 ```bash
@@ -40,5 +67,5 @@ ln -s ${PWD}/dataset algorithms/ADA-NNS/hnswlib/dataset
 4. Reproduce WWW'2025 results
 
 Follow Readme in each directory
-+ [HNSW (baseline)](https://github.com/K16DIABLO/hnswlib/tree/v0.8.0)
-+ [HNSW (ADA-NNS)](https://github.com/K16DIABLO/hnswlib/tree/ADA-NNS)
++ [HNSW (baseline)](https://github.com/K16DIABLO/hnswlib/tree/v0.8.0) - **algorithms/hnswlib**
++ [HNSW (ADA-NNS)](https://github.com/K16DIABLO/hnswlib/tree/ADA-NNS) - **algorithms/ADA-NNS/hnswlib**
