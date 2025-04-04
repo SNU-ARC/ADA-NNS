@@ -71,3 +71,7 @@ ln -s ${PWD}/dataset algorithms/ADA-NNS/hnswlib/dataset
 Follow Readme in each directory
 + [HNSW (baseline)](https://github.com/K16DIABLO/hnswlib/tree/v0.8.0) - **algorithms/hnswlib**
 + [HNSW (ADA-NNS)](https://github.com/K16DIABLO/hnswlib/tree/ADA-NNS) - **algorithms/ADA-NNS/hnswlib**
++ [NSG (baseline)](https://github.com/K16DIABLO/nsg/tree/www_baseline) - **algorithms/nsg**
++ [NSG (ADA-NNS)](https://github.com/K16DIABLO/nsg/tree/ADA-NNS) - **algorithms/ADA-NNS/nsg**
++ [SSG (baseline)](https://github.com/K16DIABLO/SSG/tree/www_baseline) - **algorithms/SSG**
++ [SSG (ADA-NNS)](https://github.com/K16DIABLO/SSG/tree/ADA-NNS) - **algorithms/ADA-NNS/SSG**
