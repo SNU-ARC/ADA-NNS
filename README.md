@@ -21,7 +21,7 @@ Please refer to the full paper ADA-NNS (To appear WWW 2025).
 
 ## ANNS performance
 
-The performance of ANNS was evaluating using a single thread. Among all baselines, **ADA-NNS** achieved highest throughput.
+The performance of ANNS was evaluating using a single thread. Among all baselines, **ADA-NNS (HNSW)** achieved highest throughput.
 
 ### Other graph-based ANNS baselines:
 
