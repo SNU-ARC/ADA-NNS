@@ -6,3 +6,15 @@
 	path = algorithms/ADA-NNS/hnswlib
 	url = https://github.com/k16diablo/hnswlib
   branch = ADA-NNS
+[submodule "algorithms/SSG"]
+	path = algorithms/SSG
+	url = https://github.com/K16DIABLO/SSG.git
+[submodule "algorithms/nsg"]
+	path = algorithms/nsg
+	url = https://github.com/K16DIABLO/nsg.git
+[submodule "algorithms/ADA-NNS/nsg"]
+	path = algorithms/ADA-NNS/nsg
+	url = https://github.com/K16DIABLO/nsg.git
+[submodule "algorithms/ADA-NNS/SSG"]
+	path = algorithms/ADA-NNS/SSG
+	url = https://github.com/K16DIABLO/SSG.git
