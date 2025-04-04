@@ -95,7 +95,7 @@ Following is the directory structure of `dataset` to reproduce WWW 2025 results:
 └── hnsw_index
 ```
 
-3. Crate a symbolic link to the `dataset` directory in submodules:
+3. Create a symbolic link to the `dataset` directory in submodules:
 ```bash
 ln -s ${PWD}/dataset algorithms/hnswlib/dataset
 ln -s ${PWD}/dataset algorithms/ADA-NNS/hnswlib/dataset
