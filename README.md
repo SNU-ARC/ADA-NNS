@@ -19,6 +19,41 @@ Please refer to the full paper ADA-NNS (To appear WWW 2025).
 | DEEP100M* | 96        | 100,000,000 | 10,000        | L2 |
 + For DEEP100M, we will share the file link upon request
 
+## ANNS performance
+
+The performance of ANNS was evaluating using a single thread. Among all baselines, **ADA-NNS** achieved highest throughput.
+
+### Other graph-based ANNS baselines:
+
++ [HNSW](https://github.com/nmslib/hnswlib)
++ [TOGG](https://github.com/whenever5225/TOGG)
++ [ADSampling](https://github.com/gaoj0017/ADSampling)
++ [FINGER](https://github.com/Patrick-H-Chen/FINGER)
+
+### SIFT1M
+
+<img src="./figures/sift1M.png"/>
+
+### GIST1M
+
+<img src="./figures/gist1M.png"/>
+
+### CRAWL
+
+<img src="./figures/crawl.png"/>
+
+### GLOVE-100
+
+<img src="./figures/glove-100.png"/>
+
+### NYTIMES
+
+<img src="./figures/nytimes.png"/>
+
+### DEEP100M
+
+<img src="./figures/deep100M.png"/>
+
 ## How to Use
 
 ### Initialize
